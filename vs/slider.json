@@ -1,9 +1,9 @@
 {
-   "deeplink":"toiapp://open-$|$-id=Bollywood-01-$|$-lang=1-$|$-displayName=Bollywood-$|$-url=https://demo7481201.mockable.io/vs/listing-$|$-type=visualstory-category-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
-   "name":"Featured",
+   "deeplink":"toiapp://open-$|$-id=Visual Stories-01-$|$-lang=1-$|$-displayName=Visual Stories-$|$-url=https://plus.timesofindia.com/toi-feed/client/toia/navigation/section?lang=1&uid=India-01&category=India-01&fv=780&isPager=true-$|$-type=section-$|$-pubId-100-$|$-pubName=The Times Of India-$|$-pnEng=The Times Of India-$|$-channel=toi-$|$-pn=The Times Of India",
+   "name":"Visual Stories",
    "secid":"17584223",
    "tn":"visualstoryslider",
-   "uid":"Featured-01",
+   "uid":"Visual Stories-01",
    "pitems":[
       {
          "id":"88165301",
